@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right, #33cc33 0%, #006600 100%);
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.btns {
+    color: #016f32;
+    background-color: goldenrod;
+    width: 150px;
+    padding: 5px 0px;
+    border-radius: 5px; 
+    font-weight: bold;
+    margin: 5px auto;
+}
+
+.btns-box {
+    display: flex;
+    flex-direction: column;
+}
