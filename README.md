@@ -1,2 +1,4 @@
 # BlackJack
-BlackJack is Game
+BlackJack is simple Game
+
+[take look](https://ranjitodedra.github.io/BlackJack/) 
