@@ -1,5 +1,5 @@
 <h1 align="center">BlackJack</h1>
-- BlackJack is simple Game
+BlackJack is simple Game
 
 [BlackJack Game](https://ranjitodedra.github.io/BlackJack/) 
 
